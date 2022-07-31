@@ -1,6 +1,9 @@
 # Georgian Language Modelling
 We have trained popular NLP models on Georgian Language and compared the results on text generation task.
-This repository contains not only the inference part of the models, but also the training code. We trained N-Gram,Word2Vec, LSTM and BERT models on the Georgian corpus.
+
+This repository contains not only the inference part of the models, but also the training code.
+
+ We trained N-Gram,Word2Vec, LSTM and BERT models on the Georgian corpus.
 
 ## Setting up the environment
 In order to use everything in this repository, you need to install the following dependencies:
