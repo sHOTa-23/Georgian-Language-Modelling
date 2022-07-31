@@ -41,7 +41,7 @@ The repository contains the following notebooks:
 - [Word2Vec Analysis](./notebooks/word2vec_analysis.ipynb) - Training of Word2Vec model
 - [LSTM Training](./notebooks/lstm.ipynb) - Training of LSTM model
 - [BERT Training](./notebooks/trainbert.ipynb) - Training of BERT model
-- [Inference](./notebooks/inference.ipynb) - Inference of the BERT model, including beam search and greedy search
+- [Inference](./notebooks/Inference.ipynb) - Inference of the BERT model, including beam search and greedy search
 
 
 ## Appendix
